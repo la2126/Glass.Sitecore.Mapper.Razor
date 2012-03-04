@@ -1,0 +1,14 @@
+h2. Glass Sitecore Mapper Razor
+
+
+
+Glass Sitecore Mapper Razor is an extension to Glass Sitecore Mapper for "Sitecore":http://www.sitecore.net that creates a simple and easy to use integration for Glass Sitecore Mapper, Razor view engine and Sitecore.
+
+You can keep up to date by following "Glasslu":http://twitter.com/#!/Glasslu on twitter.
+
+Glass Sitecore Mapper is released under the Apache License Version 2, please see the "License":https://github.com/Glass-lu/Glass.Sitecore.Mapper.Razor/blob/master/License.txt file for more information.
+
+
+Thanks
+
+Mike Edwards
