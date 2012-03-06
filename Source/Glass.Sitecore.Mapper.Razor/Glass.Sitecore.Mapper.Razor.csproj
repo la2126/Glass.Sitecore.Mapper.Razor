@@ -90,12 +90,6 @@
     <Compile Include="Web\Ui\TemplateModel.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Glass.Sitecore.Mapper\Glass.Sitecore.Mapper.csproj">
-      <Project>{564CDD78-0939-436B-9C90-7AF9D95B9024}</Project>
-      <Name>Glass.Sitecore.Mapper</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

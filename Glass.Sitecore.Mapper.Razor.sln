@@ -10,10 +10,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		License.txt = License.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glass.Sitecore.Mapper", "Source\Glass.Sitecore.Mapper\Glass.Sitecore.Mapper.csproj", "{564CDD78-0939-436B-9C90-7AF9D95B9024}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glass.Sitecore.Mapper.Tests", "Source\Glass.Sitecore.Mapper.Tests\Glass.Sitecore.Mapper.Tests.csproj", "{D88371AA-7461-4945-B8DE-998EAA9257D4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glass.Sitecore.Mapper.Razor", "Source\Glass.Sitecore.Mapper.Razor\Glass.Sitecore.Mapper.Razor.csproj", "{B60A888B-41B8-42DF-B388-33BE7C1CF88F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glass.Sitecore.Mapper.Razor.Tests", "Source\Glass.Sitecore.Mapper.Razor.Tests\Glass.Sitecore.Mapper.Razor.Tests.csproj", "{AB6175A2-E6FC-48BF-A93A-03D9BF4F113F}"
@@ -30,26 +26,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Release|Any CPU.Build.0 = Release|Any CPU
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{564CDD78-0939-436B-9C90-7AF9D95B9024}.Release|x86.ActiveCfg = Release|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{D88371AA-7461-4945-B8DE-998EAA9257D4}.Release|x86.ActiveCfg = Release|Any CPU
 		{B60A888B-41B8-42DF-B388-33BE7C1CF88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B60A888B-41B8-42DF-B388-33BE7C1CF88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B60A888B-41B8-42DF-B388-33BE7C1CF88F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
@@ -85,10 +61,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{564CDD78-0939-436B-9C90-7AF9D95B9024} = {7D464095-7E51-40CD-9C8A-29B0821A7494}
 		{B60A888B-41B8-42DF-B388-33BE7C1CF88F} = {7D464095-7E51-40CD-9C8A-29B0821A7494}
 		{6D64D86D-C0F6-4C90-BE0D-D2A1B1D399F5} = {7D464095-7E51-40CD-9C8A-29B0821A7494}
-		{D88371AA-7461-4945-B8DE-998EAA9257D4} = {F3EE438A-FEE6-439C-9083-F52449C0C4BB}
 		{AB6175A2-E6FC-48BF-A93A-03D9BF4F113F} = {F3EE438A-FEE6-439C-9083-F52449C0C4BB}
 	EndGlobalSection
 EndGlobal
